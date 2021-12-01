@@ -8,10 +8,10 @@ Mostly used in vehicles to make sure that the equipments used are working effici
 
 # **Features:**
 
--Low Cost
--Checks if the driver is seated or not.
--Can modify the temperature according to the passenger.
--Robust System
+- Low Cost 
+- Checks if the driver is seated or not.
+- Can modify the temperature according to the passenger.
+- Robust System
 
 ## Details requirements
 ### High Level Requirements:
@@ -33,9 +33,9 @@ Mostly used in vehicles to make sure that the equipments used are working effici
 
 **Strength:**
 
--Temperature modification can be done easily.
--Cost effective.
--Heat generation is fast.
+- Temperature modification can be done easily.
+- Cost effective.
+- Heat generation is fast.
 
 **Weakness:**
 - Need dry bags to store the heater.
