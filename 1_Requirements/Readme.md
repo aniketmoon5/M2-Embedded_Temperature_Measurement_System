@@ -4,7 +4,7 @@ The temperature measurement system is used to measure and control the temperatur
 
 # **Research:**
 
-Mostly used in vehicles to make sure that the equipments used are working efficiently in cold weather.It takes an analog input and generates a temperature accordingly via master slave communication.
+Mostly used in vehicles to make sure that the equipments used are working efficiently in cold weather.It takes an analog input and generates temperature accordingly via master slave communication.
 
 # **Features:**
 
